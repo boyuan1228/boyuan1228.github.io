@@ -27,7 +27,8 @@
     - [Source Code](https://github.com/boyuan1228/boyuan1228.github.io/tree/main/app)
     - [reference](https://codepen.io/gaearon/pen/gWWZgR?editors=0010)
     - Game demo <br /> ![Game demo](https://boyuan1228.github.io/app/ttt.gif)
-  - [Gomoku](https://github.com/boyuan1228/boyuan1228.github.io/tree/main/gomoku)
+  - [Gomoku](https://boyuan1228.github.io/gomoku/)
+    - deployed, but!!!! still have error ("TypeError: Cannot read properties of null (reading 'getContext')")
     - a combined project by using HTML, CSS, TS/JS, etc...
 
 ## Portfolio
